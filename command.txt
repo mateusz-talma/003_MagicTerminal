@@ -1,0 +1,50 @@
+  348  git status
+  349  git push origin fibonacci
+  350  ls
+  351  mkdir homework
+  352  ls
+  353  cd homework/
+  354  git init
+  355  ls
+  356  touch processes.txt
+  357  ps aux
+  358  ps aux > processes.txt
+  359  ls
+  360  cat processes.txt
+  361  gedit processes.txt
+  362  cp processes.txt copy.txt
+  363  ls
+  364  mkdir kopia
+  365  move ./copy.txt kopia
+  366  mv
+  367  mv copy.txt kopia
+  368  ls
+  369  cd kopia
+  370  ls
+  371  cd ..
+  372  wc -l processes.txt
+  373  wc -l processes.txt &>> processes.txt
+  374  gedit processes.txt
+  375  man grep
+  376  grep "bin" processes.txt
+  377  grep "bin" processes.txt &>> processes.txt
+  378* vim processes.t
+  379  grep "bin" processes.txt | tee -a processes.txt
+  380  vim processes.txt 
+  381  gedit processes.txt 
+  382  history
+  383  man tail
+  384  tail -n +350
+  385  man tail
+  386  tail history
+  387  man tail
+  388  history | tail
+  389  hisory | tail -n +350
+  390  man tail
+  391  hisory | tail -n --line=350
+  392  hisory | tail -n --line 350
+  393  hisory | tail -n --line 35
+  394  hisory | tail -n 35
+  395  hisory | tail -40
+  396  history | tail -40
+  397  history | tail -50 &>> command.txt

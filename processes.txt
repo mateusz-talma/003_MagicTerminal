@@ -1,0 +1,248 @@
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root           1  0.7  0.3 168904 13112 ?        Ss   18:25   0:11 /sbin/init splash
+root           2  0.0  0.0      0     0 ?        S    18:25   0:00 [kthreadd]
+root           3  0.0  0.0      0     0 ?        I<   18:25   0:00 [rcu_gp]
+root           4  0.0  0.0      0     0 ?        I<   18:25   0:00 [rcu_par_gp]
+root           6  0.0  0.0      0     0 ?        I<   18:25   0:00 [kworker/0:0H-kblockd]
+root           9  0.0  0.0      0     0 ?        I<   18:25   0:00 [mm_percpu_wq]
+root          10  0.0  0.0      0     0 ?        S    18:25   0:00 [ksoftirqd/0]
+root          11  0.1  0.0      0     0 ?        I    18:25   0:01 [rcu_sched]
+root          12  0.0  0.0      0     0 ?        S    18:25   0:00 [migration/0]
+root          13  0.0  0.0      0     0 ?        S    18:25   0:00 [idle_inject/0]
+root          14  0.0  0.0      0     0 ?        S    18:25   0:00 [cpuhp/0]
+root          15  0.0  0.0      0     0 ?        S    18:25   0:00 [cpuhp/1]
+root          16  0.0  0.0      0     0 ?        S    18:25   0:00 [idle_inject/1]
+root          17  0.1  0.0      0     0 ?        S    18:25   0:02 [migration/1]
+root          18  0.0  0.0      0     0 ?        S    18:25   0:00 [ksoftirqd/1]
+root          20  0.0  0.0      0     0 ?        I<   18:25   0:00 [kworker/1:0H-kblockd]
+root          21  0.0  0.0      0     0 ?        S    18:25   0:00 [cpuhp/2]
+root          22  0.0  0.0      0     0 ?        S    18:25   0:00 [idle_inject/2]
+root          23  0.1  0.0      0     0 ?        S    18:25   0:02 [migration/2]
+root          24  0.0  0.0      0     0 ?        S    18:25   0:00 [ksoftirqd/2]
+root          26  0.0  0.0      0     0 ?        I<   18:25   0:00 [kworker/2:0H-kblockd]
+root          27  0.0  0.0      0     0 ?        S    18:25   0:00 [cpuhp/3]
+root          28  0.0  0.0      0     0 ?        S    18:25   0:00 [idle_inject/3]
+root          29  0.1  0.0      0     0 ?        S    18:25   0:02 [migration/3]
+root          30  0.0  0.0      0     0 ?        S    18:25   0:00 [ksoftirqd/3]
+root          32  0.0  0.0      0     0 ?        I<   18:25   0:00 [kworker/3:0H-kblockd]
+root          33  0.0  0.0      0     0 ?        S    18:25   0:00 [kdevtmpfs]
+root          34  0.0  0.0      0     0 ?        I<   18:25   0:00 [netns]
+root          35  0.0  0.0      0     0 ?        S    18:25   0:00 [rcu_tasks_kthre]
+root          36  0.0  0.0      0     0 ?        S    18:25   0:00 [kauditd]
+root          37  0.0  0.0      0     0 ?        S    18:25   0:00 [khungtaskd]
+root          38  0.0  0.0      0     0 ?        S    18:25   0:00 [oom_reaper]
+root          39  0.0  0.0      0     0 ?        I<   18:25   0:00 [writeback]
+root          40  0.0  0.0      0     0 ?        S    18:25   0:00 [kcompactd0]
+root          41  0.0  0.0      0     0 ?        SN   18:25   0:00 [ksmd]
+root          42  0.0  0.0      0     0 ?        SN   18:25   0:00 [khugepaged]
+root          49  0.1  0.0      0     0 ?        I    18:25   0:01 [kworker/3:1-events]
+root         135  0.0  0.0      0     0 ?        I<   18:25   0:00 [kintegrityd]
+root         136  0.0  0.0      0     0 ?        I<   18:25   0:00 [kblockd]
+root         137  0.0  0.0      0     0 ?        I<   18:25   0:00 [blkcg_punt_bio]
+root         138  0.0  0.0      0     0 ?        I<   18:25   0:00 [tpm_dev_wq]
+root         139  0.0  0.0      0     0 ?        I<   18:25   0:00 [ata_sff]
+root         140  0.0  0.0      0     0 ?        I<   18:25   0:00 [md]
+root         141  0.0  0.0      0     0 ?        I<   18:25   0:00 [edac-poller]
+root         142  0.0  0.0      0     0 ?        I<   18:25   0:00 [devfreq_wq]
+root         144  0.0  0.0      0     0 ?        S    18:25   0:00 [watchdogd]
+root         149  0.0  0.0      0     0 ?        S    18:25   0:00 [kswapd0]
+root         150  0.0  0.0      0     0 ?        S    18:25   0:00 [ecryptfs-kthrea]
+root         153  0.0  0.0      0     0 ?        I<   18:25   0:00 [kthrotld]
+root         154  0.0  0.0      0     0 ?        I<   18:25   0:00 [acpi_thermal_pm]
+root         155  0.0  0.0      0     0 ?        S    18:25   0:00 [scsi_eh_0]
+root         156  0.0  0.0      0     0 ?        I<   18:25   0:00 [scsi_tmf_0]
+root         157  0.0  0.0      0     0 ?        S    18:25   0:00 [scsi_eh_1]
+root         158  0.0  0.0      0     0 ?        I<   18:25   0:00 [scsi_tmf_1]
+root         159  0.0  0.0      0     0 ?        I    18:25   0:00 [kworker/u8:2-events_unbound]
+root         160  0.0  0.0      0     0 ?        I<   18:25   0:00 [vfio-irqfd-clea]
+root         161  0.0  0.0      0     0 ?        I<   18:25   0:00 [ipv6_addrconf]
+root         173  0.0  0.0      0     0 ?        I<   18:25   0:00 [kstrp]
+root         177  0.0  0.0      0     0 ?        I<   18:25   0:00 [kworker/u9:0]
+root         193  0.0  0.0      0     0 ?        I<   18:25   0:00 [kworker/3:1H-kblockd]
+root         194  0.0  0.0      0     0 ?        I<   18:25   0:00 [charger_manager]
+root         243  0.0  0.0      0     0 ?        I    18:25   0:00 [kworker/1:2-events]
+root         244  0.0  0.0      0     0 ?        S    18:25   0:00 [scsi_eh_2]
+root         245  0.0  0.0      0     0 ?        I<   18:25   0:00 [scsi_tmf_2]
+root         250  0.0  0.0      0     0 ?        I<   18:25   0:00 [kworker/1:1H-events_highpri]
+root         269  0.0  0.0      0     0 ?        I<   18:25   0:00 [kworker/2:1H-kblockd]
+root         271  0.0  0.0      0     0 ?        S    18:25   0:00 [jbd2/sda5-8]
+root         272  0.0  0.0      0     0 ?        I<   18:25   0:00 [ext4-rsv-conver]
+root         284  0.0  0.0      0     0 ?        I<   18:25   0:00 [kworker/0:1H-kblockd]
+root         312  0.2  0.4  51892 18756 ?        S<s  18:25   0:04 /lib/systemd/systemd-journald
+root         342  0.2  0.1  23704  7412 ?        Ss   18:25   0:03 /lib/systemd/systemd-udevd
+root         343  0.0  0.0      0     0 ?        S    18:25   0:00 [irq/18-vmwgfx]
+root         344  0.0  0.0      0     0 ?        I<   18:25   0:00 [ttm_swap]
+root         350  0.0  0.0      0     0 ?        S<   18:25   0:00 [loop0]
+root         354  0.0  0.0      0     0 ?        S<   18:25   0:00 [loop1]
+root         360  0.0  0.0      0     0 ?        S<   18:25   0:00 [loop2]
+root         361  0.0  0.0      0     0 ?        S<   18:25   0:00 [loop3]
+root         362  0.0  0.0      0     0 ?        S<   18:25   0:00 [loop4]
+root         363  0.0  0.0      0     0 ?        S<   18:25   0:00 [loop5]
+root         364  0.0  0.0      0     0 ?        S<   18:25   0:00 [loop6]
+root         366  0.0  0.0      0     0 ?        S<   18:25   0:00 [loop7]
+root         389  0.0  0.0      0     0 ?        S<   18:25   0:00 [loop8]
+root         401  0.0  0.0      0     0 ?        I<   18:25   0:00 [iprt-VBoxWQueue]
+root         437  0.0  0.0      0     0 ?        I<   18:25   0:00 [cryptd]
+systemd+     617  0.2  0.3  24180 13536 ?        Ss   18:25   0:04 /lib/systemd/systemd-resolved
+systemd+     618  0.3  0.1  90412  6356 ?        Ssl  18:25   0:05 /lib/systemd/systemd-timesyncd
+root         646  0.0  0.2 253052  9568 ?        Ssl  18:25   0:00 /usr/lib/accountsservice/accounts-daemon
+root         647  0.0  0.0   2540   784 ?        Ss   18:25   0:00 /usr/sbin/acpid
+avahi        650  0.0  0.0   8500  3624 ?        Ss   18:25   0:00 avahi-daemon: running [mtalma-VirtualBox.local]
+root         653  0.0  0.0  20572  2972 ?        Ss   18:25   0:00 /usr/sbin/cron -f
+message+     657  0.2  0.1   9044  6220 ?        Ss   18:25   0:04 /usr/bin/dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+root         658  0.0  0.5 349584 21596 ?        Ssl  18:25   0:00 /usr/sbin/NetworkManager --no-daemon
+root         664  0.0  0.0  81812  3660 ?        Ssl  18:25   0:00 /usr/sbin/irqbalance --foreground
+root         670  0.0  0.4  50416 20096 ?        Ss   18:25   0:00 /usr/bin/python3 /usr/bin/networkd-dispatcher --run-startup-triggers
+root         671  0.0  0.3 256148 13012 ?        Ssl  18:25   0:01 /usr/lib/policykit-1/polkitd --no-debug
+syslog       674  0.0  0.1 224324  4772 ?        Ssl  18:25   0:00 /usr/sbin/rsyslogd -n -iNONE
+root         676  0.2  0.7 1088488 30808 ?       Ssl  18:25   0:04 /usr/lib/snapd/snapd
+root         677  0.0  0.1 246756  5864 ?        Ssl  18:25   0:00 /usr/libexec/switcheroo-control
+root         683  0.2  0.2  16924  8516 ?        Ss   18:25   0:04 /lib/systemd/systemd-logind
+root         686  0.0  0.3 395556 14336 ?        Ssl  18:25   0:00 /usr/lib/udisks2/udisksd
+root         687  0.0  0.1  13664  4988 ?        Ss   18:25   0:00 /sbin/wpa_supplicant -u -s -O /run/wpa_supplicant
+avahi        699  0.0  0.0   8320   324 ?        S    18:25   0:00 avahi-daemon: chroot helper
+root         743  0.0  0.3 180424 12780 ?        Ssl  18:25   0:00 /usr/sbin/cups-browsed
+root         754  0.0  0.2  39716  8676 ?        Ss   18:25   0:00 /usr/sbin/cupsd -l
+root         765  0.0  0.2 313720 10696 ?        Ssl  18:25   0:00 /usr/sbin/ModemManager --filter-policy=strict
+root         781  0.0  0.2 250620  8884 ?        Ssl  18:25   0:00 /usr/sbin/gdm3
+root         848  0.0  0.5 128964 22820 ?        Ssl  18:25   0:00 /usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal
+root         849  0.0  0.2 325540  9936 ?        Sl   18:25   0:00 gdm-session-worker [pam/gdm-autologin]
+mtalma       855  0.2  0.2  19268 10624 ?        Ss   18:25   0:03 /lib/systemd/systemd --user
+mtalma       856  0.0  0.0 103520  3508 ?        S    18:25   0:00 (sd-pam)
+whoopsie     874  0.0  0.3 253496 16044 ?        Ssl  18:25   0:00 /usr/bin/whoopsie -f
+kernoops     884  0.0  0.0  11240   452 ?        Ss   18:25   0:00 /usr/sbin/kerneloops --test
+kernoops     886  0.0  0.0  11240   452 ?        Ss   18:25   0:00 /usr/sbin/kerneloops
+mtalma       919  0.3  0.4 1419428 18812 ?       S<sl 18:25   0:04 /usr/bin/pulseaudio --daemonize=no --log-target=journal
+mtalma       921  0.0  0.6 670104 24804 ?        SNsl 18:25   0:01 /usr/libexec/tracker-miner-fs
+mtalma       925  0.0  0.2 398804  8136 ?        SLl  18:25   0:00 /usr/bin/gnome-keyring-daemon --daemonize --login
+mtalma       929  0.0  0.1 175156  6628 tty2     Ssl+ 18:25   0:00 /usr/lib/gdm3/gdm-x-session --run-script env GNOME_SHELL_SESSION_MODE=ubuntu /usr/bin/gnome-session --systemd --session=ubuntu
+mtalma       932  0.2  0.2  11424  8732 ?        Ss   18:25   0:04 /usr/bin/dbus-daemon --session --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+mtalma       934  2.0  1.8 830676 72996 tty2     Sl+  18:25   0:30 /usr/lib/xorg/Xorg vt2 -displayfd 3 -auth /run/user/1000/gdm/Xauthority -background none -noreset -keeptty -verbose 3
+mtalma       937  0.0  0.1 250852  7884 ?        Ssl  18:25   0:00 /usr/libexec/gvfsd
+mtalma       942  0.0  0.2 382056  8476 ?        Sl   18:25   0:00 /usr/libexec/gvfsd-fuse /run/user/1000/gvfs -f -o big_writes
+mtalma       950  0.0  0.2 328572 11716 ?        Ssl  18:25   0:00 /usr/libexec/gvfs-udisks2-volume-monitor
+mtalma       966  0.0  0.1 249124  7008 ?        Ssl  18:25   0:00 /usr/libexec/gvfs-gphoto2-volume-monitor
+mtalma       970  0.0  0.1 247028  6008 ?        Ssl  18:26   0:00 /usr/libexec/gvfs-goa-volume-monitor
+mtalma       975  0.0  0.9 552896 36404 ?        Sl   18:26   0:01 /usr/libexec/goa-daemon
+mtalma       993  0.0  0.2 329828 11640 ?        Sl   18:26   0:00 /usr/libexec/goa-identity-service
+mtalma       998  0.0  0.2 327880  8848 ?        Ssl  18:26   0:00 /usr/libexec/gvfs-afc-volume-monitor
+mtalma      1004  0.0  0.1 246852  6400 ?        Ssl  18:26   0:00 /usr/libexec/gvfs-mtp-volume-monitor
+root        1011  0.3  0.2 263268  9616 ?        Ssl  18:26   0:05 /usr/lib/upower/upowerd
+rtkit       1026  0.0  0.0 152916  2920 ?        SNsl 18:26   0:00 /usr/libexec/rtkit-daemon
+mtalma      1032  0.0  0.3 202116 15504 tty2     Sl+  18:26   0:00 /usr/libexec/gnome-session-binary --systemd --systemd --session=ubuntu
+mtalma      1110  0.0  0.0   6032   456 ?        Ss   18:26   0:00 /usr/bin/ssh-agent /usr/bin/im-launch env GNOME_SHELL_SESSION_MODE=ubuntu /usr/bin/gnome-session --systemd --session=ubuntu
+mtalma      1127  0.1  0.2 325936  9524 ?        Ssl  18:26   0:01 /usr/bin/ibus-daemon --daemonize --xim
+mtalma      1134  0.0  0.2 177708  9248 ?        Sl   18:26   0:00 /usr/libexec/ibus-memconf
+mtalma      1135  0.3  1.7 1013232 70396 ?       Sl   18:26   0:04 /usr/libexec/ibus-ui-gtk3
+mtalma      1136  0.9  1.5 976320 61520 ?        Sl   18:26   0:14 /usr/libexec/ibus-extension-gtk3
+mtalma      1140  0.2  1.4 899192 58804 ?        Sl   18:26   0:03 /usr/libexec/ibus-x11 --kill-daemon
+mtalma      1142  0.0  0.2 251508  9396 ?        Sl   18:26   0:00 /usr/libexec/ibus-portal
+mtalma      1179  0.0  0.2 309800  8936 ?        Ssl  18:26   0:00 /usr/libexec/at-spi-bus-launcher
+mtalma      1184  0.0  0.1   7348  4372 ?        S    18:26   0:00 /usr/bin/dbus-daemon --config-file=/usr/share/defaults/at-spi2/accessibility.conf --nofork --print-address 3
+mtalma      1195  0.0  0.1 162888  6388 ?        Sl   18:26   0:00 /usr/libexec/at-spi2-registryd --use-gnome-session
+mtalma      1207  0.0  0.2 1014680 10616 ?       Ssl  18:26   0:00 /usr/libexec/xdg-desktop-portal
+mtalma      1212  0.0  0.1 476876  6276 ?        Ssl  18:26   0:00 /usr/libexec/xdg-document-portal
+mtalma      1216  0.0  0.1 246752  4868 ?        Ssl  18:26   0:00 /usr/libexec/xdg-permission-store
+mtalma      1229  0.2  0.8 509192 32680 ?        Ssl  18:26   0:03 /usr/libexec/xdg-desktop-portal-gtk
+mtalma      1246  0.0  0.1 156204  5468 ?        Sl   18:26   0:00 /usr/libexec/dconf-service
+mtalma      1253  0.0  0.1 101200  4220 ?        Ssl  18:26   0:00 /usr/libexec/gnome-session-ctl --monitor
+mtalma      1265  0.0  0.4 497792 17440 ?        Ssl  18:26   0:01 /usr/libexec/gnome-session-binary --systemd-service --session=ubuntu
+mtalma      1292 12.2  8.6 4836552 347248 ?      Ssl  18:26   3:06 /usr/bin/gnome-shell
+mtalma      1293  0.0  0.2 177700  9208 ?        Sl   18:26   0:00 /usr/libexec/ibus-engine-simple
+mtalma      1377  0.0  0.5 507992 20860 ?        Sl   18:26   0:00 /usr/libexec/gnome-shell-calendar-server
+mtalma      1381  0.0  0.6 401532 25888 ?        Ssl  18:26   0:00 /usr/libexec/evolution-source-registry
+mtalma      1423  0.0  0.6 2745064 27344 ?       Sl   18:26   0:00 /usr/bin/gjs /usr/share/gnome-shell/org.gnome.Shell.Notifications
+mtalma      1432  0.0  0.2 328700 10872 ?        Sl   18:26   0:00 /usr/libexec/gvfsd-trash --spawner :1.3 /org/gtk/gvfs/exec_spaw/0
+mtalma      1448  0.0  0.2 325068  9320 ?        Ssl  18:26   0:00 /usr/libexec/gsd-a11y-settings
+mtalma      1457  0.2  0.7 581604 31072 ?        Ssl  18:26   0:03 /usr/libexec/gsd-color
+mtalma      1458  0.0  0.4 385484 17560 ?        Ssl  18:26   0:00 /usr/libexec/gsd-datetime
+mtalma      1459  0.0  0.2 325356  9396 ?        Ssl  18:26   0:00 /usr/libexec/gsd-housekeeping
+mtalma      1460  0.2  0.7 359436 30480 ?        Ssl  18:26   0:03 /usr/libexec/gsd-keyboard
+mtalma      1461  0.0  0.1 231792  5680 ?        Sl   18:26   0:00 /usr/libexec/gsd-disk-utility-notify
+mtalma      1462  0.2  0.8 849188 32936 ?        Ssl  18:26   0:03 /usr/libexec/gsd-media-keys
+mtalma      1466  0.2  0.7 433796 31176 ?        Ssl  18:26   0:04 /usr/libexec/gsd-power
+mtalma      1467  0.0  0.2 259364 11272 ?        Ssl  18:26   0:00 /usr/libexec/gsd-print-notifications
+mtalma      1468  0.0  0.1 468248  6164 ?        Ssl  18:26   0:00 /usr/libexec/gsd-rfkill
+mtalma      1470  0.0  0.1 246660  5992 ?        Ssl  18:26   0:00 /usr/libexec/gsd-screensaver-proxy
+mtalma      1471  0.0  0.3 480188 12752 ?        Ssl  18:26   0:00 /usr/libexec/gsd-sharing
+mtalma      1474  0.2  1.5 645340 60624 ?        Sl   18:26   0:04 /usr/libexec/evolution-data-server/evolution-alarm-notify
+mtalma      1477  0.0  0.2 329096 10720 ?        Ssl  18:26   0:00 /usr/libexec/gsd-smartcard
+mtalma      1478  0.0  0.2 332832 11164 ?        Ssl  18:26   0:00 /usr/libexec/gsd-sound
+mtalma      1479  0.0  0.2 399056  9468 ?        Ssl  18:26   0:00 /usr/libexec/gsd-usb-protection
+mtalma      1485  0.2  0.7 358976 29960 ?        Ssl  18:26   0:03 /usr/libexec/gsd-wacom
+mtalma      1486  0.0  0.2 329392 10712 ?        Ssl  18:26   0:00 /usr/libexec/gsd-wwan
+mtalma      1487  0.2  0.7 360076 31356 ?        Ssl  18:26   0:03 /usr/libexec/gsd-xsettings
+mtalma      1489  0.1  0.7 923660 29852 ?        Ssl  18:26   0:01 /usr/libexec/evolution-calendar-factory
+mtalma      1564  0.0  0.3 353316 14980 ?        Sl   18:26   0:00 /usr/libexec/gsd-printer
+colord      1598  0.1  0.4 260060 16808 ?        Ssl  18:26   0:02 /usr/libexec/colord
+mtalma      1616  0.0  0.7 684588 29884 ?        Ssl  18:26   0:00 /usr/libexec/evolution-addressbook-factory
+mtalma      1725  0.0  0.1 173296  6332 ?        Ssl  18:27   0:00 /usr/libexec/gvfsd-metadata
+mtalma      1728  0.0  0.8 434776 36008 ?        Sl   18:27   0:01 update-notifier
+mtalma      1828  3.5  4.7 629260 191436 ?       SLl  18:28   0:50 /opt/google/chrome/chrome
+mtalma      1834  0.0  0.0  19380   524 ?        S    18:28   0:00 cat
+mtalma      1835  0.0  0.0  19380   588 ?        S    18:28   0:00 cat
+mtalma      1839  0.0  1.6 281904 67508 ?        S    18:28   0:00 /opt/google/chrome/chrome --type=zygote --enable-crash-reporter=7879023d-c197-4b21-b947-467e505905f9,
+mtalma      1841  0.0  0.1  10836  4176 ?        S    18:28   0:00 /opt/google/chrome/nacl_helper
+mtalma      1844  0.0  0.4 281904 17196 ?        S    18:28   0:00 /opt/google/chrome/chrome --type=zygote --enable-crash-reporter=7879023d-c197-4b21-b947-467e505905f9,
+mtalma      1871  0.7  2.2 346460 89624 ?        SLl  18:28   0:10 /opt/google/chrome/chrome --type=utility --field-trial-handle=13178486491154728005,14333784210554922350,131072 --lang=en-US --service-sandbox-type=network --disable-webrtc-apm-in-audio-service --enable-crash-reporter=7879023d-c197-4b21-b947-467e505905f9, --shared-files
+mtalma      1897  1.8  2.5 325444 104516 ?       Sl   18:28   0:26 /opt/google/chrome/chrome --type=gpu-process --field-trial-handle=13178486491154728005,14333784210554922350,131072 --enable-crash-reporter=7879023d-c197-4b21-b947-467e505905f9, --gpu-preferences=MAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAABgAAAAAAAQAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA= --use-gl=swiftshader-webgl --shared-files
+mtalma      1900  0.0  0.3 252956 15568 ?        S    18:28   0:00 /opt/google/chrome/chrome --type=broker
+mtalma      2429  2.6  3.9 4701284 158284 ?      Sl   18:31   0:31 /opt/google/chrome/chrome --type=renderer --disable-webrtc-apm-in-audio-service --field-trial-handle=13178486491154728005,14333784210554922350,131072 --disable-gpu-compositing --lang=en-US --enable-crash-reporter=7879023d-c197-4b21-b947-467e505905f9, --enable-auto-reload --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=17 --no-v8-untrusted-code-mitigations --shared-files
+mtalma      2479  0.0  2.0 4598812 82068 ?       Sl   18:31   0:00 /opt/google/chrome/chrome --type=renderer --disable-webrtc-apm-in-audio-service --field-trial-handle=13178486491154728005,14333784210554922350,131072 --disable-gpu-compositing --lang=en-US --enable-crash-reporter=7879023d-c197-4b21-b947-467e505905f9, --enable-auto-reload --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=19 --no-v8-untrusted-code-mitigations --shared-files
+mtalma      2503  0.1  3.4 4644136 140688 ?      Sl   18:32   0:02 /opt/google/chrome/chrome --type=renderer --disable-webrtc-apm-in-audio-service --field-trial-handle=13178486491154728005,14333784210554922350,131072 --disable-gpu-compositing --lang=en-US --enable-crash-reporter=7879023d-c197-4b21-b947-467e505905f9, --extension-process --enable-auto-reload --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=21 --no-v8-untrusted-code-mitigations --shared-files
+mtalma      2516  0.0  1.4 4534432 56528 ?       Sl   18:32   0:00 /opt/google/chrome/chrome --type=ppapi --field-trial-handle=13178486491154728005,14333784210554922350,131072 --ppapi-flash-args --lang=en-US --enable-crash-reporter=7879023d-c197-4b21-b947-467e505905f9, --shared-files
+root        2590  0.0  0.0      0     0 ?        I    18:32   0:00 [kworker/2:0-events]
+mtalma      2625  0.0  2.0 4598812 82476 ?       Sl   18:32   0:00 /opt/google/chrome/chrome --type=renderer --disable-webrtc-apm-in-audio-service --field-trial-handle=13178486491154728005,14333784210554922350,131072 --disable-gpu-compositing --lang=en-US --enable-crash-reporter=7879023d-c197-4b21-b947-467e505905f9, --enable-auto-reload --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=33 --no-v8-untrusted-code-mitigations --shared-files
+root        2670  0.0  0.0      0     0 ?        I    18:34   0:00 [kworker/0:0-events]
+root        7093  0.0  0.0      0     0 ?        I    18:38   0:00 [kworker/1:1-events]
+root        7094  0.0  0.0      0     0 ?        I    18:38   0:00 [kworker/3:2]
+root        7163  0.0  0.0      0     0 ?        I    18:39   0:00 [kworker/2:1-events]
+mtalma      7217  0.0  1.2 4570584 51896 ?       Sl   18:41   0:00 /opt/google/chrome/chrome --type=renderer --disable-webrtc-apm-in-audio-service --field-trial-handle=13178486491154728005,14333784210554922350,131072 --disable-gpu-compositing --lang=en-US --enable-crash-reporter=7879023d-c197-4b21-b947-467e505905f9, --enable-auto-reload --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=38 --no-v8-untrusted-code-mitigations --shared-files
+root        7236  0.0  0.0      0     0 ?        I    18:42   0:00 [kworker/0:2-events]
+root        7262  0.0  0.0      0     0 ?        I    18:45   0:00 [kworker/u8:0-events_unbound]
+mtalma      7355  1.0  1.4 793840 58464 ?        Sl   18:50   0:00 /usr/bin/gnome-calendar --gapplication-service
+mtalma      7359  1.2  1.1 479556 45432 ?        SLl  18:50   0:01 /usr/bin/seahorse --gapplication-service
+mtalma      7360  3.4  1.2 968596 49596 ?        Rsl  18:50   0:02 /usr/libexec/gnome-terminal-server
+mtalma      7440  0.1  0.1  22040  5360 pts/0    Ss   18:50   0:00 bash
+root        7467  0.0  0.0      0     0 ?        I    18:50   0:00 [kworker/0:1-events]
+root        7484  0.0  0.0      0     0 ?        I    18:50   0:00 [kworker/2:2]
+root        7485  0.0  0.0      0     0 ?        I    18:50   0:00 [kworker/0:3]
+root        7491  0.0  0.1  23240  4792 pts/0    S    18:50   0:00 sudo su
+root        7492  0.0  0.1  22184  4432 pts/0    S    18:50   0:00 su
+root        7493  0.0  0.1  20996  4204 pts/0    S    18:50   0:00 bash
+root        7519  0.0  0.0      0     0 ?        I    18:50   0:00 [kworker/1:0-events]
+root        7536  0.0  0.0      0     0 ?        I    18:51   0:00 [kworker/u8:1-events_unbound]
+mtalma      7546  2.1  0.6 445984 25708 ?        Ssl  18:51   0:00 /usr/libexec/tracker-store
+root        7555  0.0  0.0  22636  3508 pts/0    R+   18:51   0:00 ps aux
+216 processes.txt
+grep: input file ‘processes.txt’ is also the output
+root           1  0.7  0.3 168904 13112 ?        Ss   18:25   0:11 /sbin/init splash
+root         647  0.0  0.0   2540   784 ?        Ss   18:25   0:00 /usr/sbin/acpid
+root         653  0.0  0.0  20572  2972 ?        Ss   18:25   0:00 /usr/sbin/cron -f
+message+     657  0.2  0.1   9044  6220 ?        Ss   18:25   0:04 /usr/bin/dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+root         658  0.0  0.5 349584 21596 ?        Ssl  18:25   0:00 /usr/sbin/NetworkManager --no-daemon
+root         664  0.0  0.0  81812  3660 ?        Ssl  18:25   0:00 /usr/sbin/irqbalance --foreground
+root         670  0.0  0.4  50416 20096 ?        Ss   18:25   0:00 /usr/bin/python3 /usr/bin/networkd-dispatcher --run-startup-triggers
+syslog       674  0.0  0.1 224324  4772 ?        Ssl  18:25   0:00 /usr/sbin/rsyslogd -n -iNONE
+root         687  0.0  0.1  13664  4988 ?        Ss   18:25   0:00 /sbin/wpa_supplicant -u -s -O /run/wpa_supplicant
+root         743  0.0  0.3 180424 12780 ?        Ssl  18:25   0:00 /usr/sbin/cups-browsed
+root         754  0.0  0.2  39716  8676 ?        Ss   18:25   0:00 /usr/sbin/cupsd -l
+root         765  0.0  0.2 313720 10696 ?        Ssl  18:25   0:00 /usr/sbin/ModemManager --filter-policy=strict
+root         781  0.0  0.2 250620  8884 ?        Ssl  18:25   0:00 /usr/sbin/gdm3
+root         848  0.0  0.5 128964 22820 ?        Ssl  18:25   0:00 /usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal
+whoopsie     874  0.0  0.3 253496 16044 ?        Ssl  18:25   0:00 /usr/bin/whoopsie -f
+kernoops     884  0.0  0.0  11240   452 ?        Ss   18:25   0:00 /usr/sbin/kerneloops --test
+kernoops     886  0.0  0.0  11240   452 ?        Ss   18:25   0:00 /usr/sbin/kerneloops
+mtalma       919  0.3  0.4 1419428 18812 ?       S<sl 18:25   0:04 /usr/bin/pulseaudio --daemonize=no --log-target=journal
+mtalma       925  0.0  0.2 398804  8136 ?        SLl  18:25   0:00 /usr/bin/gnome-keyring-daemon --daemonize --login
+mtalma       929  0.0  0.1 175156  6628 tty2     Ssl+ 18:25   0:00 /usr/lib/gdm3/gdm-x-session --run-script env GNOME_SHELL_SESSION_MODE=ubuntu /usr/bin/gnome-session --systemd --session=ubuntu
+mtalma       932  0.2  0.2  11424  8732 ?        Ss   18:25   0:04 /usr/bin/dbus-daemon --session --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+mtalma      1032  0.0  0.3 202116 15504 tty2     Sl+  18:26   0:00 /usr/libexec/gnome-session-binary --systemd --systemd --session=ubuntu
+mtalma      1110  0.0  0.0   6032   456 ?        Ss   18:26   0:00 /usr/bin/ssh-agent /usr/bin/im-launch env GNOME_SHELL_SESSION_MODE=ubuntu /usr/bin/gnome-session --systemd --session=ubuntu
+mtalma      1127  0.1  0.2 325936  9524 ?        Ssl  18:26   0:01 /usr/bin/ibus-daemon --daemonize --xim
+mtalma      1184  0.0  0.1   7348  4372 ?        S    18:26   0:00 /usr/bin/dbus-daemon --config-file=/usr/share/defaults/at-spi2/accessibility.conf --nofork --print-address 3
+mtalma      1265  0.0  0.4 497792 17440 ?        Ssl  18:26   0:01 /usr/libexec/gnome-session-binary --systemd-service --session=ubuntu
+mtalma      1292 12.2  8.6 4836552 347248 ?      Ssl  18:26   3:06 /usr/bin/gnome-shell
+mtalma      1423  0.0  0.6 2745064 27344 ?       Sl   18:26   0:00 /usr/bin/gjs /usr/share/gnome-shell/org.gnome.Shell.Notifications
+mtalma      7355  1.0  1.4 793840 58464 ?        Sl   18:50   0:00 /usr/bin/gnome-calendar --gapplication-service
+mtalma      7359  1.2  1.1 479556 45432 ?        SLl  18:50   0:01 /usr/bin/seahorse --gapplication-service
